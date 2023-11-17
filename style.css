@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.container{
+    max-width: auto;
+    align-self: auto;
+    justify-content: baseline;
+    animation-timing-function: calc()
+    
+}
